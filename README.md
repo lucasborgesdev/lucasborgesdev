@@ -13,9 +13,5 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, Java & python.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games COD Warzone, BF1, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-borges-813a2637/)](https://www.linkedin.com/in/lucas-borges-813a2637/)
- 
- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55048991728727&text=Hello!)](https://api.whatsapp.com/send?phone=55048991728727&text=Hello!)
- 
- <a href="https://www.linkedin.com/in/lucas-borges-813a2637/">Linkedin</a> <a href="https://api.whatsapp.com/send?phone=55048991728727">WhatsApp</a> <a href="mailto:lucas_borges_br@hotmail">Email</a>
+ <br/> <a href="mailto:lucas_borges_br@hotmail">:email:</a> &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-borges-813a2637/)](https://www.linkedin.com/in/lucas-borges-813a2637/)  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55048991728727&text=Hello!)](https://api.whatsapp.com/send?phone=55048991728727&text=Hello!) 
  
