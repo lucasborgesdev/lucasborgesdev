@@ -1,16 +1,19 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**lucasborgesdev/lucasborgesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Lucas Borges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou estudante de Sistemas para Internet no Instituto Federal Catarinense Campus Camboriú. 
+<br/> Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Atualmente sou estagiando como FullStack React + java Spring boot
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, Java & python.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games COD Warzone, BF1, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: <a href="https://www.linkedin.com/in/lucas-borges-813a2637/">Linkedin</a> <a href="https://api.whatsapp.com/send?phone=55048991728727">WhatsApp</a> <a href="mailto:lucas_borges_br@hotmail">Email</a>
+ 
+
+
