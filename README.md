@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/lucasborgesdev/lucasborgesdev/blob/master/Geek-Wallpapers-HD-PixelsTalk.Net.jpg">
 
 
 # Lucas Borges
