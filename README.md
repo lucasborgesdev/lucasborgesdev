@@ -8,7 +8,7 @@ Sou estudante de Sistemas para Internet no Instituto Federal Catarinense Campus 
 <br/> Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Atualmente sou estagiando como FullStack React + java Spring boot
+ :rocket:  &nbsp; Atualmente sou Desenvolvedor front-end na Compass Uol 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, Java & python.
